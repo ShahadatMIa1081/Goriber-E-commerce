@@ -315,7 +315,7 @@ a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-bottom: 2px solid rgb(26, 25, 25);
+   
 }
 .notification h3{
     font-size: 2rem;
